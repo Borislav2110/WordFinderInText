@@ -1,0 +1,1 @@
+c:\users\borko\documents\visual studio 2015\Projects\WordFinderInText\WordFinderInText\bin\Debug\WordFinderInText.exe.config
